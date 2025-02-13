@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Zev-site/static/css/main.a53eeb05.css",
-    "main.js": "/Zev-site/static/js/main.c615e94c.js",
-    "static/js/488.496d2748.chunk.js": "/Zev-site/static/js/488.496d2748.chunk.js",
-    "index.html": "/Zev-site/index.html",
-    "main.a53eeb05.css.map": "/Zev-site/static/css/main.a53eeb05.css.map",
-    "main.c615e94c.js.map": "/Zev-site/static/js/main.c615e94c.js.map",
-    "488.496d2748.chunk.js.map": "/Zev-site/static/js/488.496d2748.chunk.js.map"
+    "main.css": "/Zev-Site/static/css/main.a53eeb05.css",
+    "main.js": "/Zev-Site/static/js/main.667ebe64.js",
+    "static/js/488.496d2748.chunk.js": "/Zev-Site/static/js/488.496d2748.chunk.js",
+    "index.html": "/Zev-Site/index.html",
+    "main.a53eeb05.css.map": "/Zev-Site/static/css/main.a53eeb05.css.map",
+    "main.667ebe64.js.map": "/Zev-Site/static/js/main.667ebe64.js.map",
+    "488.496d2748.chunk.js.map": "/Zev-Site/static/js/488.496d2748.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a53eeb05.css",
-    "static/js/main.c615e94c.js"
+    "static/js/main.667ebe64.js"
   ]
 }
